@@ -4,7 +4,7 @@ title: Essential Supplements for Ethosian Living
 
 ## Foundation for Physical Excellence (Pillar 12: Fitness)
 
-Your body is the vessel through which you practice all 80 pillars of Ethosism. Optimal physical health supports mental clarity, emotional stability, and the energy needed for ethical living. While a well-balanced diet should be your primary source of nutrients (Pillar 13: Diet), strategic supplementation can fill gaps and enhance your capacity for pillar-based living.
+Optimal physical health supports mental clarity, emotional stability, and the energy needed for ethical living. While a well-balanced diet should be your primary source of nutrients (Pillar 13: Diet), strategic supplementation can fill gaps and enhance your capacity for pillar-based living.
 
 ### The Ethosian Approach to Supplementation
 
