@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Waking and Sleeping with Discipline social graphic</title>
+  <desc id="desc">A square social media graphic for the Industrious Framework chapter on waking, sleeping, and daily schedule anchors.</desc>
+  <defs>
+    <style>
+      .sans { font-family: Inter, Avenir, Helvetica, Arial, sans-serif; }
+      .serif { font-family: Georgia, "Times New Roman", serif; }
+      .label { font-size: 25px; font-weight: 700; fill: #f8f5ed; }
+      .small { font-size: 25px; fill: #31463b; }
+      .micro { font-size: 21px; fill: #31463b; }
+      .pillar { font-size: 21px; font-weight: 700; fill: #13251d; }
+    </style>
+  </defs>
+
+  <rect width="1080" height="1080" fill="#f8f5ed"/>
+  <rect x="0" y="0" width="116" height="1080" fill="#13251d"/>
+  <rect x="116" y="0" width="14" height="1080" fill="#d79b3d"/>
+  <rect x="130" y="0" width="6" height="1080" fill="#b84a3b"/>
+
+  <g transform="translate(72 118) rotate(-90)">
+    <text class="sans label" x="-730" y="0">THE INDUSTRIOUS FRAMEWORK</text>
+  </g>
+
+  <g transform="translate(188 108)">
+    <rect x="0" y="0" width="178" height="44" rx="0" fill="#d79b3d"/>
+    <text class="sans pillar" x="22" y="30">NEW CHAPTER</text>
+  </g>
+
+  <g transform="translate(188 198)">
+    <text class="serif" x="0" y="0" font-size="78" font-weight="700" fill="#13251d">Wake with</text>
+    <text class="serif" x="0" y="88" font-size="78" font-weight="700" fill="#13251d">intention.</text>
+    <text class="serif" x="0" y="198" font-size="78" font-weight="700" fill="#13251d">Sleep with</text>
+    <text class="serif" x="0" y="286" font-size="78" font-weight="700" fill="#13251d">intention.</text>
+  </g>
+
+  <g transform="translate(188 560)">
+    <rect x="0" y="0" width="720" height="2" fill="#13251d"/>
+    <text class="sans" x="0" y="64" font-size="35" font-weight="700" fill="#b84a3b">Build the day between them.</text>
+    <text class="sans small" x="0" y="110">A disciplined schedule begins with two anchors:</text>
+    <text class="sans small" x="0" y="148">a chosen wake time and a deliberate bedtime.</text>
+  </g>
+
+  <g transform="translate(188 760)">
+    <rect x="0" y="0" width="305" height="150" rx="0" fill="#ffffff" stroke="#13251d" stroke-width="3"/>
+    <rect x="0" y="0" width="305" height="16" fill="#d79b3d"/>
+    <text class="sans" x="28" y="60" font-size="31" font-weight="800" fill="#13251d">WAKE TIME</text>
+    <text class="sans micro" x="28" y="101">Realistic. Repeatable.</text>
+    <text class="sans micro" x="28" y="131">Connected to duty.</text>
+  </g>
+
+  <g transform="translate(525 760)">
+    <rect x="0" y="0" width="340" height="150" rx="0" fill="#ffffff" stroke="#13251d" stroke-width="3"/>
+    <rect x="0" y="0" width="340" height="16" fill="#b84a3b"/>
+    <text class="sans" x="28" y="60" font-size="31" font-weight="800" fill="#13251d">BEDTIME</text>
+    <text class="sans micro" x="28" y="101">Shutdown before sleep.</text>
+    <text class="sans micro" x="28" y="131">Protect tomorrow morning.</text>
+  </g>
+
+  <g transform="translate(742 167)">
+    <circle cx="132" cy="132" r="105" fill="none" stroke="#13251d" stroke-width="8"/>
+    <circle cx="132" cy="132" r="8" fill="#13251d"/>
+    <line x1="132" y1="132" x2="132" y2="61" stroke="#13251d" stroke-width="7" stroke-linecap="square"/>
+    <line x1="132" y1="132" x2="190" y2="132" stroke="#13251d" stroke-width="7" stroke-linecap="square"/>
+    <circle cx="67" cy="69" r="24" fill="#d79b3d"/>
+    <path d="M197 199c23 0 42-19 42-42 0-8-2-15-6-22 18 7 31 25 31 46 0 27-22 49-49 49-20 0-38-13-45-31 8 4 17 0 27 0z" fill="#b84a3b"/>
+  </g>
+
+  <g transform="translate(188 962)">
+    <text class="sans" x="0" y="0" font-size="23" font-weight="700" fill="#13251d">Pillar 2: Discipline</text>
+    <text class="sans" x="252" y="0" font-size="23" font-weight="700" fill="#13251d">Pillar 10: Time Management</text>
+    <text class="sans" x="620" y="0" font-size="23" font-weight="700" fill="#13251d">Pillar 11: Sleep</text>
+  </g>
+</svg>
